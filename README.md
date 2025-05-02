@@ -1,3 +1,5 @@
+[🇨🇳 中文版 README](./README.zh-CN.md) | [🇬🇧 English README](./README.md)
+
 ## MiniSpark: Multi-threaded Data Processing Framework
 
 **Overview:**
